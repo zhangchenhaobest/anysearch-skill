@@ -1,3 +1,29 @@
+# anysearch-skill
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Unified real-time search engine skill for AI agents. Supports general web search, vertical domain search, parallel batch search, and full-page content extraction.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向 AI Agent 的统一实时搜索技能，支持通用网页、垂直领域、批量并行搜索与全文抓取。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # AnySearch Skill
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
